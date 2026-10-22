@@ -1,0 +1,10 @@
+pyproject.toml
+src/j_regulator.egg-info/PKG-INFO
+src/j_regulator.egg-info/SOURCES.txt
+src/j_regulator.egg-info/dependency_links.txt
+src/j_regulator.egg-info/entry_points.txt
+src/j_regulator.egg-info/requires.txt
+src/j_regulator.egg-info/top_level.txt
+src/jreg/__init__.py
+src/jreg/cli/main.py
+src/jreg/core/config.py
